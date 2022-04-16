@@ -1,11 +1,11 @@
-url: https://foobar
+url: https://nqbit.github.io/agency-jekyll-theme/
 baseurl: /
 
 # Site settings
 title: Strong Starts for Success
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+background_image: hero-bg-2.jpg
 
 # Team names, titles and social links
 people:
