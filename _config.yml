@@ -9,38 +9,40 @@ background_image: hero-bg-2.jpg
 
 # Team names, titles and social links
 people:
-- name: Kay Garlander
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Hailey Breitenfeld
+  pic: hailey_breitenfeld.jpg
+  position: Founder and Executive Director
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Makenna Breitenfeld
+  pic: makenna_breitenfeld.jpg
+  position: President
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: Precious Marshall
+  pic: precious_marshall.jpg
+  position: Secretary
+
+- name: Ada Rousso
+  pic: ada_rousso.jpg
+  position: Treasurer
+
+- name: Ettie King
+  pic: ettie_king.jpg
+  position: Member
+
+- name: Laurie Healy
+  pic: laurie_healy.jpg
+  position: Member
+
+- name: Marilyn Cahn
+  pic: marilyn_cahn.jpg
+  position: Member
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
