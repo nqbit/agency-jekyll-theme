@@ -126,7 +126,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
-    border-color: #{{ site.data.template.color.font }};
+    color: #{{ site.data.template.color.font }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
