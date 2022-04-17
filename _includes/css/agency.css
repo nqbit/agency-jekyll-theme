@@ -41,8 +41,11 @@ a {
 
 a:hover,
 a:focus,
-a:active,
 a.active {
+    color: #{{ site.data.template.color.secondary }};
+}
+
+a.always_active {
     color: #{{ site.data.template.color.secondary }};
 }
 
@@ -183,10 +186,6 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
-}
-
-.navbar-default .navbar-brand.always_active {
     color: #{{ site.data.template.color.secondary }};
 }
 
