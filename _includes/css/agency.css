@@ -728,6 +728,72 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+
+section#donate {
+    background-color: #222;
+    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section#donate .section-heading {
+    color: #fff;
+}
+
+section#donate .form-group {
+    margin-bottom: 25px;
+}
+
+section#donate .form-group input,
+section#donate .form-group textarea {
+    padding: 20px;
+}
+
+section#donate .form-group input.form-control {
+    height: auto;
+}
+
+section#donate .form-group textarea.form-control {
+    height: 236px;
+}
+
+section#donate .form-control:focus {
+    border-color: #{{ site.data.template.color.primary }};
+    box-shadow: none;
+}
+
+section#donate::-webkit-input-placeholder {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #bbb;
+}
+
+section#donate:-moz-placeholder {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #bbb;
+}
+
+section#donate::-moz-placeholder {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #bbb;
+}
+
+section#donate:-ms-input-placeholder {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #bbb;
+}
+
+section#donate .text-danger {
+    color: #e74c3c;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
