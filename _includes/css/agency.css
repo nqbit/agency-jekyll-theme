@@ -45,10 +45,6 @@ a.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
-a.always_active {
-    color: #{{ site.data.template.color.secondary }};
-}
-
 h1,
 h2,
 h3,
@@ -225,6 +221,12 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-default .navbar-nav>.always_active>a {
     border-radius: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
