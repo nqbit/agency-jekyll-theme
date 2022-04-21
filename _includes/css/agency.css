@@ -302,7 +302,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: {{ site.data.template.font.primary }};
     text-shadow: #{{ site.data.template.color.primary }} 1px 0 10px;
     font-size: 50px;
