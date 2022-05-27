@@ -13,13 +13,6 @@ people:
 - name: Hailey Breitenfeld
   pic: hailey_breitenfeld.jpg
   position: Founder and Executive Director
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: stack-overflow
-  #     url: #
 
 - name: Makenna Breitenfeld
   pic: makenna_breitenfeld.jpg
@@ -51,12 +44,6 @@ social:
     url: https://www.instagram.com/strongstartsforsuccess
   - title: envelope
     url: mailto:foo@bar.com
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket 
-  #   url: http://bitbucket.org/jekyll
-  # - title: github
-  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
