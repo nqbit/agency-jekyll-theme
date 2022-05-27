@@ -49,8 +49,8 @@ people:
 social:
   - title: instagram
     url: https://www.instagram.com/strongstartsforsuccess
-  # - title: facebook
-  #   url:
+  - title: envelope
+    url: mailto:foo@bar.com
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket 
