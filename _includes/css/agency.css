@@ -60,6 +60,10 @@ h3 {
     line-height: 1.5;
 }
 
+.story {
+    font-size: 22px;
+}
+
 .img-centered {
     margin: 0 auto;
 }
