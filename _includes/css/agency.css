@@ -652,6 +652,11 @@ section h3.section-subheading {
     flex-wrap: wrap;
 }
 
+.row.bottom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
