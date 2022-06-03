@@ -1,8 +1,8 @@
 # Color settings (hex-codes without the leading hash-tag)
 # Suggested colors: #82dee4 (blue), #aa99d0 (purple), #e8c461 (yellow), #fadedf (pink)
 color:
-  primary: e8c461
-  secondary: fec503   
+  primary: ad98d4
+  secondary: a377f6   
   secondary-dark: 333
   muted: 777
   font: 345658
