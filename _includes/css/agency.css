@@ -357,7 +357,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 35px;
-    font-style: italic;
+    /* font-style: italic; */
     font-weight: 400;
 }
 
@@ -366,7 +366,7 @@ section h3.section-subheading-story {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
-    font-style: italic;
+    /* font-style: italic; */
     font-weight: 400;
 }
 
