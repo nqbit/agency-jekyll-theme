@@ -13,30 +13,44 @@ people:
 - name: Hailey Breitenfeld
   pic: hailey_breitenfeld.jpg
   position: Founder and Executive Director
+  description: Foobar
+  modal-id: 1
 
 - name: Makenna Breitenfeld
   pic: makenna_breitenfeld.jpg
   position: President
+  description: Foobar
+  modal-id: 2
 
 - name: Precious Marshall
   pic: precious_marshall.jpg
   position: Secretary
+  description: Foobar
+  modal-id: 3
 
 - name: Ada Rousso
   pic: ada_rousso.jpg
   position: Treasurer
+  description: Foobar
+  modal-id: 4
 
 - name: Ettie King
   pic: ettie_king.jpg
   position: Member
+  description: Foobar
+  modal-id: 5
 
 - name: Laurie Healy
   pic: laurie_healy.jpg
   position: Member
+  description: Foobar
+  modal-id: 6
 
 - name: Marilyn Cahn
   pic: marilyn_cahn.jpg
   position: Member
+  description: Foobar
+  modal-id: 7
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
