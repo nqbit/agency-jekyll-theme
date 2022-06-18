@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.people %}
+                {% for member in site.people reversed %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <a href="#portfolioModal{{ member.modal-id }}" class="portfolio-link" data-toggle="modal">
