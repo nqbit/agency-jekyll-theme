@@ -661,6 +661,7 @@ section h3.section-subheading-story {
     display: flex;
     justify-content: center;
     flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
 }
 
 .row.bottom {
