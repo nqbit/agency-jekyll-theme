@@ -660,7 +660,7 @@ section h3.section-subheading-story {
 .row {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
 
 .row.bottom {
