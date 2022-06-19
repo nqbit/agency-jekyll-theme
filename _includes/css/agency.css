@@ -360,13 +360,6 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
-@media(max-width:768px) {
-    section h3.section-subheading {
-        font-family: {{ site.data.template.font.primary }};
-        font-size: 20px;
-    }    
-}
-
 section h3.section-subheading-story {
     margin-bottom: 75px;
     text-transform: none;
@@ -374,6 +367,19 @@ section h3.section-subheading-story {
     font-size: 46px;
     font-weight: 400;
 }
+
+@media(max-width:768px) {
+    section h3.section-subheading {
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 20px;
+    }    
+
+    section h3.section-subheading-story {
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 20px;
+    }
+}
+
 
 @media(min-width:768px) {
     section {
