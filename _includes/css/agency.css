@@ -247,13 +247,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(max-width:768px) {
-    section h3.section-subheading {
-        font-family: {{ site.data.template.font.primary }};
-        font-size: 20px;
-    }    
-}
-
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -365,6 +358,13 @@ section h3.section-subheading {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 50px;
     font-weight: 400;
+}
+
+@media(max-width:768px) {
+    section h3.section-subheading {
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 20px;
+    }    
 }
 
 section h3.section-subheading-story {
