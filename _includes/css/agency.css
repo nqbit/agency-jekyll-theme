@@ -182,9 +182,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
+.navbar-default .navbar-brand img {
+    height: 100%;
+}
+
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    padding: 5px;
 }
 
 .navbar-default .navbar-brand:hover,
