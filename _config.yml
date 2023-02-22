@@ -52,6 +52,12 @@ people:
   description: "Marilyn holds a Bachelor of Arts from National University in K-12 Teaching and certification for Special Education from Cal State University, Northridge. She spent her career as a special education teacher, ensuring that her students were prepared to be active and productive members of their communities. She continues to relentlessly support and promote any cause she believes in and brings that passion to the board of Strong Starts for Success. Her uncanny gift for seeking the positive in any situation adds an optimistic perspective to the organization."
   modal-id: 7
 
+- name: Austin May
+  pic: austin_may.png
+  position: Member
+  description: Austin has a Master's in Public Policy from Georgetown University and a Bachelor's from the College of William & Mary. He served in the Peace Corps teaching high school English, Computer Science, and teacher professional development in southern Ethiopia. He has worked in an Afghan refugee camp under IRC, and with a non-profit on education capacity-building in Ethiopia and Burundi. Austin currently does intergovernmental and public relations for the US Army in the Middle East. As a member of the board of Strong Starts for Success, he seeks to collaborate with the participating communities as productive stakeholders and encourage holistic, deeper learning curricula. He enjoys getting lost in the great outdoors and helping students reach their potential.
+  modal-id: 8
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
