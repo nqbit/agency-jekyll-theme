@@ -67,6 +67,65 @@ social:
   - title: facebook
     url: https://www.facebook.com/strongstartsforsuccess
 
+# timeline past events
+timeline_past:
+  - date: December 2010
+    title: Our Humble Beginnings
+    description:  Our founder discovered her passion, and the seeds of Strong
+                  Starts for Success were born.
+    image: img/timeline/humble_beginnings.png
+    invert: False
+  - date: 2011-2021
+    title: Experience Builds
+    description:  Experiences were had, people were met, ideas were fleshed out
+                  and the concepts for Strong Starts for Success became more
+                  concrete.
+    image: img/timeline/experience_builds.png
+    invert: True
+  - date: March 2022
+    title: It's Official!
+    description:  Strong Starts for Success officially became registered as
+                  nonprofit organization.
+    image: img/logos/s3_logo_small.png
+    invert: False
+  - date: September 2022 - October 2022
+    title: Piloted the Training Program
+    description:  We tested our training program in the Harlandsville community
+                  in Buchanan city, Grand Bassa County.
+    image: img/timeline/piloted_training_program.png
+    invert: True
+  - date: November 2022
+    title: A Home is Found
+    description:  The Robertsport community welcomed the organization and its
+                  mission, and renovations began on the building.
+    image: img/timeline/a_home_is_found.png
+    invert: False
+  - date: January 2023 - April 2023
+    title: Let it Begin
+    description:  The Robertsport trainees were recruited and received their
+                  pre-service training.
+    image: img/timeline/let_it_begin.png
+    invert: True
+  - date: April 2023
+    title: Open Arms
+    description:  The Robertsport Center opens its doors to the community's
+                  children.
+    image: img/about/openarms.png
+    invert: False
+
+# timeline future events
+timeline_future:
+  - date: ASAP
+    title: Acquire Land for Permanent Center
+    description:  Land is acquired for a permanent community center.
+    image: img/timeline/getting_land.png
+    invert: True
+  - date: January 2025
+    title: Construct a Model Center
+    description:  Strong Starts for Success will create a model community center as a northstar for future development.
+    image: img/timeline/model_center.png
+    invert: False
+
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
