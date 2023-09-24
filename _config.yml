@@ -115,9 +115,9 @@ timeline_past:
 
 # timeline future events
 timeline_future:
-  - date: ASAP
-    title: Acquire Land for Permanent Center
-    description:  Land is acquired for a permanent community center.
+  - date: Now
+    title: Looking for Land
+    description: We are currently working to acquire land for our next center.
     image: img/timeline/getting_land.png
     invert: True
   - date: January 2025
